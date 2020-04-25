@@ -1,0 +1,2 @@
+when wanting to edit global mysql settings via phpmyadmin in xampp. All settings are in:
+xampp/phpmyadmin/config.inc.php
